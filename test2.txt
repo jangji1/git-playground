@@ -1,1 +1,2 @@
 test2
+amend 실습
